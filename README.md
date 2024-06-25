@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Hi there 👋
+- 🌱 Welcome to my Github Repo!
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=littlebeen&count_private=true&show_icons=true" />
+
+### My research 🤗
+- Remote sensing
+- Image enhancement
+- And more!
+
 <!--
 **littlebeen/littlebeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
