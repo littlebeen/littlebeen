@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-### Hi there 👋
 - 🌱 Welcome to my Github Repo!
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=littlebeen&count_private=true&show_icons=true" />
